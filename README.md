@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/558433830.svg)](https://zenodo.org/badge/latestdoi/558433830)
+
 # Q42 PMP hardware
 
 Q42 PMP is a standalone device featuring a Raspberry Pi and a Raspberry Pi Camera Module with a number of additonal features.
